@@ -2,7 +2,7 @@
 **ABOUT TOOL :**<br>
 **PREFIX ADDER** is a tool created for termux .
 
-With this tool you can Add Text to Each Line type the text you want to add to each line and type the input file path and output file path. If the output file does not exist, it will be created **.**
+With this tool you can Add Text to Each Line just type the text you want to add to each line and type the input file path and output file path. If the output file does not exist, it will be created **.**
 
 # SCREENSHOOT
 ![1](https://github.com/YT-GAMER-X/PREFIX_ADDER/blob/8d310858c1d97bee0188b64e4ae8ff05dcfe09eb/SCREENSHOT.png)
