@@ -5,7 +5,7 @@
 With this tool you can Add Text to Each Line just type the text you want to add to each line and type the input file path and output file path. If the output file does not exist, it will be created **.**
 
 # SCREENSHOOT
-![1](https://github.com/YT-GAMER-X/PREFIX_ADDER/blob/ee42c0ec9cbe919f87e947a244083078d82301d5/SCREENSHOT.png)
+![1](https://github.com/YT-GAMER-X/PREFIX_ADDER/blob/45f55a57e058474aecad0418532d71db723019f2/SCREENSHOT.png)
 
 # INSTALLATION COMMAND
 * `apt-get update -y`
